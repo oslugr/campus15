@@ -1,3 +1,5 @@
+http://www.tuappinvetorandroid.com/blog/tutoriales/
+
 https://prezi.com/lnjge6dacl5_/mini-golf-en-app-inventor-2/
 
 http://appinventor.blogs.upv.es/ejemplos-de-programacion/
