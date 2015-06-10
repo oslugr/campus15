@@ -5,7 +5,7 @@ del Campus Infantil de Softwre Libre durante las últimas cinco
 ediciones.  
   
 ##Manuel Cogollludo Vallejo  
-1º grado de Electrónica, monitor de tiempo libre. 
+Grado 1º en Electrónica y monitor de tiempo libre por la Generalitat de Catalunya. 
 Técnico Informático en la Oficina de Software Libre de la Universidad de Granada. 
 Profesor en diversos cursos on-line, Python, Arduino y en tres ediciones del Campus Infantil.
 Instalación y mantenimiento de SO GNU/Linux en facultad de Ciencias Políticas.
