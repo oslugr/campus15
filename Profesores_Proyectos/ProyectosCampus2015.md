@@ -89,7 +89,7 @@ Las aplicaciones que se enseñarán en cada aspecto del proyecto son:
     Diseño de gráficos con Gimp.
 
     Publicación de noticias y estados del proyecto con un blog en
-Workpress.
+Wordpress.
 
     Presentación para la jornada final con Impress.  
   
