@@ -7,9 +7,7 @@ ediciones.
 ##Manuel Cogollludo Vallejo  
 Grado 1º en Electrónica y monitor de tiempo libre por la Generalitat de Catalunya. 
 Técnico Informático en la Oficina de Software Libre de la Universidad de Granada. 
-Profesor en diversos cursos on-line, Python, Arduino y en tres ediciones del Campus Infantil.
-Instalación y mantenimiento de SO GNU/Linux en facultad de Ciencias Políticas.
-Charlas sobre Software Libre en varias facultades de la Universidad de Granada. 
+Profesor en diversos cursos on-line, Python, Arduino y en tres ediciones del Campus Infantil. 
 Secretario en la asociación GCubo (grupo de usuarios GNU/Linux de Granada).  
   
 ##Serafín Vélez Barrera
