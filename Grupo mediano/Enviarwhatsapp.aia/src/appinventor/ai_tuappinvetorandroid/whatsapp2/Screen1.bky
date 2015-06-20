@@ -1,0 +1,113 @@
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="component_event" id="3" x="144" y="-114">
+    <mutation component_type="Button" instance_name="Enviar" event_name="Click"></mutation>
+    <field name="COMPONENT_SELECTOR">Enviar</field>
+    <statement name="DO">
+      <block type="component_set_get" id="4" inline="false">
+        <mutation component_type="ActivityStarter" set_or_get="set" property_name="Action" is_generic="false" instance_name="ActivityStarter1"></mutation>
+        <field name="COMPONENT_SELECTOR">ActivityStarter1</field>
+        <field name="PROP">Action</field>
+        <value name="VALUE">
+          <block type="text" id="5">
+            <field name="TEXT">android.intent.action.SEND</field>
+          </block>
+        </value>
+        <next>
+          <block type="component_set_get" id="6" inline="false">
+            <mutation component_type="ActivityStarter" set_or_get="set" property_name="ActivityPackage" is_generic="false" instance_name="ActivityStarter1"></mutation>
+            <field name="COMPONENT_SELECTOR">ActivityStarter1</field>
+            <field name="PROP">ActivityPackage</field>
+            <value name="VALUE">
+              <block type="text" id="7">
+                <field name="TEXT">com.whatsapp</field>
+              </block>
+            </value>
+            <next>
+              <block type="component_set_get" id="8" inline="false">
+                <mutation component_type="ActivityStarter" set_or_get="set" property_name="ActivityClass" is_generic="false" instance_name="ActivityStarter1"></mutation>
+                <field name="COMPONENT_SELECTOR">ActivityStarter1</field>
+                <field name="PROP">ActivityClass</field>
+                <value name="VALUE">
+                  <block type="text" id="9">
+                    <field name="TEXT">com.whatsapp.ContactPicker</field>
+                  </block>
+                </value>
+                <next>
+                  <block type="component_set_get" id="10" inline="false">
+                    <mutation component_type="ActivityStarter" set_or_get="set" property_name="DataType" is_generic="false" instance_name="ActivityStarter1"></mutation>
+                    <field name="COMPONENT_SELECTOR">ActivityStarter1</field>
+                    <field name="PROP">DataType</field>
+                    <value name="VALUE">
+                      <block type="text" id="11">
+                        <field name="TEXT">text/plain</field>
+                      </block>
+                    </value>
+                    <next>
+                      <block type="component_set_get" id="12" inline="false">
+                        <mutation component_type="ActivityStarter" set_or_get="set" property_name="ExtraKey" is_generic="false" instance_name="ActivityStarter1"></mutation>
+                        <field name="COMPONENT_SELECTOR">ActivityStarter1</field>
+                        <field name="PROP">ExtraKey</field>
+                        <value name="VALUE">
+                          <block type="text" id="13">
+                            <field name="TEXT">android.intent.extra.TEXT</field>
+                          </block>
+                        </value>
+                        <next>
+                          <block type="component_set_get" id="14" inline="false">
+                            <mutation component_type="ActivityStarter" set_or_get="set" property_name="ExtraValue" is_generic="false" instance_name="ActivityStarter1"></mutation>
+                            <field name="COMPONENT_SELECTOR">ActivityStarter1</field>
+                            <field name="PROP">ExtraValue</field>
+                            <value name="VALUE">
+                              <block type="component_set_get" id="15">
+                                <mutation component_type="TextBox" set_or_get="get" property_name="Text" is_generic="false" instance_name="TextBox1"></mutation>
+                                <field name="COMPONENT_SELECTOR">TextBox1</field>
+                                <field name="PROP">Text</field>
+                              </block>
+                            </value>
+                            <next>
+                              <block type="controls_if" id="16" inline="false">
+                                <mutation else="1"></mutation>
+                                <value name="IF0">
+                                  <block type="text_isEmpty" id="17" inline="false">
+                                    <value name="VALUE">
+                                      <block type="component_method" id="18">
+                                        <mutation component_type="ActivityStarter" method_name="ResolveActivity" is_generic="false" instance_name="ActivityStarter1"></mutation>
+                                        <field name="COMPONENT_SELECTOR">ActivityStarter1</field>
+                                      </block>
+                                    </value>
+                                  </block>
+                                </value>
+                                <statement name="DO0">
+                                  <block type="component_method" id="19" inline="false">
+                                    <mutation component_type="Notifier" method_name="ShowAlert" is_generic="false" instance_name="Notifier1"></mutation>
+                                    <field name="COMPONENT_SELECTOR">Notifier1</field>
+                                    <value name="ARG0">
+                                      <block type="text" id="20">
+                                        <field name="TEXT">No tienes instalada la Aplicación Whatsapp</field>
+                                      </block>
+                                    </value>
+                                  </block>
+                                </statement>
+                                <statement name="ELSE">
+                                  <block type="component_method" id="21">
+                                    <mutation component_type="ActivityStarter" method_name="StartActivity" is_generic="false" instance_name="ActivityStarter1"></mutation>
+                                    <field name="COMPONENT_SELECTOR">ActivityStarter1</field>
+                                  </block>
+                                </statement>
+                              </block>
+                            </next>
+                          </block>
+                        </next>
+                      </block>
+                    </next>
+                  </block>
+                </next>
+              </block>
+            </next>
+          </block>
+        </next>
+      </block>
+    </statement>
+  </block>
+  <yacodeblocks ya-version="106" language-version="17"></yacodeblocks>
+</xml>

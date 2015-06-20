@@ -1,0 +1,4 @@
+#|
+$JSON
+{"YaVersion":"106","Source":"Form","Properties":{"$Name":"Screen1","$Type":"Form","$Version":"13","Uuid":"0","AlignHorizontal":"3","Scrollable":"True","Title":"Screen1","$Components":[{"$Name":"Image1","$Type":"Image","$Version":"1","Uuid":"1337490343","Picture":"1.jpg"},{"$Name":"TextBox1","$Type":"TextBox","$Version":"4","Uuid":"2019523422","Hint":"Escribe el texto a enviar","Width":"-2"},{"$Name":"Enviar","$Type":"Button","$Version":"6","Uuid":"-470026671","FontBold":"True","Text":"Enviar mensaje por Whatsapp","Width":"-2"},{"$Name":"ActivityStarter1","$Type":"ActivityStarter","$Version":"4","Uuid":"-520226903"},{"$Name":"Notifier1","$Type":"Notifier","$Version":"3","Uuid":"-423905081"}]}}
+|#
