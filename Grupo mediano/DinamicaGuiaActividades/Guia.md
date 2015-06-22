@@ -33,22 +33,3 @@
 > Crear sonidos o descargarlos, así como imágenes, fondos, etc. Irlos subiendo a Drive en cada cuenta Gmail personal.
 
 > 
-
-
-
-
-
-
-
-
-
-
-
-
-1º Explicar como se usa Impress, con una breve descripcion de las herramientas. Proponer un ejercicio de practica para que practiquen un poco.
-
-Despues, con los conocimientos que tienen, que hagan la presentacion para el juego.
-
-2º Explicar como se usa LibreOffice, con una breve descripcion de las herramientas. Proponer un ejercicio de practica para que practiquen un poco.
-
-Despues, con los conocimientos que tienen, que hagan la descripccion para el juego.
