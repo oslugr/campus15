@@ -26,7 +26,7 @@
 
 > Explicación de Inkscape y de como funciona, presentacion y pequeño ejercicio para que practiquen con él.
 
-> Iniciación a AppInventor con la apk del gato mauyando y otra sencilla.
+> Iniciación a AppInventor con la apk del gato maullando y otra sencilla.
 
 > Crear grupos de trabajo para AppInventor.
 
