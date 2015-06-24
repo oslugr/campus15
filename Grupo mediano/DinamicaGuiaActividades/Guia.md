@@ -1,19 +1,19 @@
-* 1º Día 
+# 1º Día 
 
-> Presentación profes y presentación de los alumnos.
+> Presentación profesores, monitor y alumnos.
 
 > Preguntas sobre que saben de ordenadores, sobre Software Libre y que programas usan de ordenador en casa.
 
 > Decirles que vamos a dar y crear.
 
-> Pequeña intro de un Navegador y navegar con Firefox.
+> Pequeña introducción de un Navegador y navegar con Firefox.
 
-> Abrir un correo de gmail para el campus y que cada uno se abra un blogger para que vayan subiendo dia a dia lo que van haciendo en clase. Cuenta en Drive para que suban todo lo necesario, imágenes, música, fondos, etc...
+> Abrir un correo de Gmail personal para cada alumno del campus (como **campus15alumnoX**)y que cada uno se abra un Blogger (poner nombre y plantilla personalizadas) para que vayan subiendo día a día lo que van haciendo en clase. Cuenta en Drive para que suban todo lo necesario, imágenes, música, fondos, etc... Y aprender a utilizar el Calendario.
 
 
-* 2º Día
+# 2º Día
 
-> Explicación de como funciona blogger y que hagan su primera entrada con el editor HTML. 
+> Explicación de como funciona Blogger y que hagan su primera entrada con el editor HTML y vean resultados, (crear [favicon](http://www.favicon.cc/?))
 
 > Explicación de que es LibreOffice Writter, que es el procesador de textos y que hagan una pequeña prueba de como funciona.
 
@@ -30,18 +30,23 @@
 > Ejercicio práctico en el que los niños irán haciendo las pruebas de las etiquetas que les vamos explicando por el proyector. 
 
 
-* 3º Día
+# 3º Día
 
-> Explicación de Inkscape y de como funciona, presentación y pequeño ejercicio para que practiquen con él.
+> Introducción a Inkscape y de como funciona, presentación y pequeño ejercicio para que practiquen con él.
 
-> Explicación de Gimp y de como funciona, presentación y pequeño ejercicio para que practiquen con él.
-
-> Iniciación a AppInventor con la apk del gato maullando y otra sencilla.
+> Introducción a Gimp y de como funciona.
 
 > Crear grupos de trabajo para AppInventor.
 
-> Crear sonidos o descargarlos, así como imágenes, fondos, etc. Irlos subiendo a Drive en cada cuenta Gmail personal.
+> Iniciación a AppInventor con la apk del gato maullando y otra sencilla.
 
-> Subir contenido a Driver.
+> Que cada grupo planifique su proyecto a realizar entre los proyectos que propongamos los profesores. Pueden ser, desde una aplicación de Turismo o deportiva, a Juegos, animales, etc...
+
+> Crear sonidos o descargarlos, así como imágenes, fondos, etc. Estos se irán subiendo a Drive en cada cuenta Gmail personal.
+
+> Subir contenido a Driver e ir guardando el trabajo antes de finalizar la clase.
+
+
+### Comentario
 
 `Todo esto según vayamos viendo como vamos de tiempo en cada una de las actividades del día, en algunas, a lo mejor, tendremos que continuar al día siguiente, o no.`
