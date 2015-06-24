@@ -48,6 +48,6 @@
 > Subir contenido a Driver e ir guardando el trabajo antes de finalizar la clase.
 
 
-## Comentario
+* Comentario
 
 `Todo esto según vayamos viendo como vamos de tiempo en cada una de las actividades del día, en algunas, a lo mejor, tendremos que continuar al día siguiente, o no.`
