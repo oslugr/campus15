@@ -1,4 +1,4 @@
-### 1º Día 
+### 1ª Sesión
 
 > Presentación profesores, monitor y alumnos.
 
@@ -8,12 +8,13 @@
 
 > Pequeña introducción de un Navegador y navegar con Firefox.
 
+### 2ª Sesión
+
 > Abrir un correo de Gmail personal para cada alumno del campus (como **campus15alumnoX**)y que cada uno se abra un Blogger (poner nombre y plantilla personalizadas) para que vayan subiendo día a día lo que van haciendo en clase. Cuenta en Drive para que suban todo lo necesario, imágenes, música, fondos, etc... Y aprender a utilizar el Calendario.
 
-
-### 2º Día
-
 > Explicación de como funciona Blogger y que hagan su primera entrada con el editor HTML y vean resultados, (crear [favicon](http://www.favicon.cc/?))
+
+### 3ª Sesión
 
 > Explicación de que es LibreOffice Writter, que es el procesador de textos y que hagan una pequeña prueba de como funciona.
 
@@ -24,17 +25,17 @@
 
 > Ejercicio práctico que iremos haciendo con los niños en el proyector para que aprendan las acciones mas sencillas, como la suma y resta en en una hoja de calculo.
 
+### 4ª Sesión
 
 > Presentación de HTML, como funciona y enseñarles las etiquetas básicas y que hagan una pequeña prueba de como funciona. 
 
 > Ejercicio práctico en el que los niños irán haciendo las pruebas de las etiquetas que les vamos explicando por el proyector. 
 
-
-### 3º Día
-
 > Introducción a Inkscape y de como funciona, presentación y pequeño ejercicio para que practiquen con él.
 
 > Introducción a Gimp y de como funciona.
+
+### 5ª Sesión
 
 > Crear grupos de trabajo para AppInventor.
 
