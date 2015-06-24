@@ -1,4 +1,4 @@
-﻿* 1º Día 
+* 1º Día 
 
 > Presentación profes y presentación de los alumnos.
 
@@ -17,18 +17,19 @@
 
 > Explicación de que es LibreOffice Writter, que es el procesador de textos y que hagan una pequeña prueba de como funciona.
 
-	*Redacción de documento libre, como por ejemplo los planes que tienen en verano o que quieren estudiar/trabajar de mayores (usando párrafos, sangrías, estilos de letras como negritas y cursiva)...
+* Redacción de documento libre, como por ejemplo los planes que tienen en verano o que quieren estudiar/trabajar 
+de mayores (usando párrafos, sangrías, estilos de letras como negritas y cursiva)...
 	 
 
 > Explicación de que es LibreOffice Calc, que es una hoja de cálculo y que hagan una pequeña prueba de como funciona.
 
-	*Ejercicio practico que iremos haciendo con los niños en el proyector para
+* Ejercicio práctico que iremos haciendo con los niños en el proyector para
 que aprendan las acciones mas sencillas, como la suma y resta en en una hoja de calculo.
 
 
 > Presentación de HTML, como funciona y enseñarles las etiquetas básicas y que hagan una pequeña prueba de como funciona. 
 
-	*Ejercicio practico en el que los niños irán haciendo las pruebas de las etiquetas que les vamos explicando por el proyector. 
+* Ejercicio practico en el que los niños irán haciendo las pruebas de las etiquetas que les vamos explicando por el proyector. 
 
 
 * 3º Día
