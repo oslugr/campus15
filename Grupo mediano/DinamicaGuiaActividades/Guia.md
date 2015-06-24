@@ -51,3 +51,5 @@
 * Comentario
 
 `Todo esto según vayamos viendo como vamos de tiempo en cada una de las actividades del día, en algunas, a lo mejor, tendremos que continuar al día siguiente, o no.`
+
+Profesores: Manu Cogolludo y José Alonso Arias
