@@ -1,4 +1,4 @@
-# 1º Día 
+### 1º Día 
 
 > Presentación profesores, monitor y alumnos.
 
@@ -11,7 +11,7 @@
 > Abrir un correo de Gmail personal para cada alumno del campus (como **campus15alumnoX**)y que cada uno se abra un Blogger (poner nombre y plantilla personalizadas) para que vayan subiendo día a día lo que van haciendo en clase. Cuenta en Drive para que suban todo lo necesario, imágenes, música, fondos, etc... Y aprender a utilizar el Calendario.
 
 
-# 2º Día
+### 2º Día
 
 > Explicación de como funciona Blogger y que hagan su primera entrada con el editor HTML y vean resultados, (crear [favicon](http://www.favicon.cc/?))
 
@@ -30,7 +30,7 @@
 > Ejercicio práctico en el que los niños irán haciendo las pruebas de las etiquetas que les vamos explicando por el proyector. 
 
 
-# 3º Día
+### 3º Día
 
 > Introducción a Inkscape y de como funciona, presentación y pequeño ejercicio para que practiquen con él.
 
@@ -47,6 +47,6 @@
 > Subir contenido a Driver e ir guardando el trabajo antes de finalizar la clase.
 
 
-### Comentario
+##Gru    Comentario
 
 `Todo esto según vayamos viendo como vamos de tiempo en cada una de las actividades del día, en algunas, a lo mejor, tendremos que continuar al día siguiente, o no.`
