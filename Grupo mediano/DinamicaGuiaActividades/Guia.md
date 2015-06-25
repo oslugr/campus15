@@ -31,6 +31,8 @@
 
 > Ejercicio práctico en el que los niños irán haciendo las pruebas de las etiquetas que les vamos explicando por el proyector. 
 
+> Introducción a Impress y de como funciona. Propuesta de pequeño ejercicio para que practiquen con él, y que realicen una pequeña presentacion con una serie de fotos sobre temas que les proporcionamos o sobre tema libre. 
+
 > Introducción a Inkscape y de como funciona, presentación y pequeño ejercicio para que practiquen con él.
 
 > Introducción a Gimp y de como funciona.
