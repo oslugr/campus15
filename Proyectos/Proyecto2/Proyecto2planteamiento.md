@@ -14,7 +14,7 @@ Licencia: Copyleft
   
 Pasos a sguir para el desarrollo del proyecto:  
 1.Dotar a los coches de movimiento.  
-2.Dirigir los coches según los sensores de colores por el circuito. 
+2.Dirigir los coches según los sensores de colores por el circuito.  
 3.Probar distintas velocidades.  
 4.Probar distintos escenarios.    
 5.Modificar escenarios con una tecla.  
