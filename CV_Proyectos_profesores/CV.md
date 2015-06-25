@@ -23,3 +23,7 @@
 * Renato Luis Ramírez Rivero: 
 
 `Licenciado en Ciencias Físicas, Programador de Aplicaciones Informáticas, Administrador de Sistemas y especialista en implantación de sistemas CMS, CRM, y MVC en distintos lenguajes de programación. Profesor de cursos de FPE, de hardware, robótica y periodismo de datos. Ha participado en anteriores ediciones del Campus Infantil Ugr y coopera con la Oficina de Software Libre en su Unidad de Reciclaje.`
+
+* Mónica Mónica López del Consuelo: 
+
+`Documentalista en la Oficina de Software Libre de la Universidad de Granada en la sección de transparencia y datos abiertos (open data) colaborando en el mantenimiento del Portal del Portal de Transparencia de dicha universidad.`
