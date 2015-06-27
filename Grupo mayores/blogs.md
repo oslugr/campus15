@@ -6,4 +6,4 @@ Como parte de su proyecto, los niños deberán mantener actualizado un blog. Cad
 
 El blog del campus infantil se encuentra en [http://osl.ugr.es/campus]
 
-Cada niño dispone de una cuenta de usuario con el mismo nombre (campus001 - campus200) y la misma contraseña que la de acceso a su escritorios durante el campus.
+Cada niño dispone de una cuenta de usuario con el mismo nombre (campus01 - campus200) y la misma contraseña que la de acceso a su escritorios durante el campus.
