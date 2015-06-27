@@ -15,7 +15,7 @@
 * Utilizar y entender HTML
 * Crear contenido multimedia
 * Aprender a realizar y utilizar ubicaciones por GPS
-* Trabajo en grupo.  
+* Trabajo en grupo.    
   
 ## Proyecto 2
 
@@ -29,6 +29,9 @@
 * Coche autónomo que conduce sólo
 * Explorar algoritmos de velocidad
 * Modularización del proyecto.
+  
+Enlace proyecto:  
+https://github.com/oslugr/campus15/tree/master/Proyectos/Proyecto2  
    
 ## Proyecto 3 
   
