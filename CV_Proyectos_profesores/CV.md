@@ -1,6 +1,4 @@
-###  <p align="center">CV de profesores Campus 2015</p>
-
-
+### CV de profesores Campus 2015
 
 * Ángel Pablo Hinojosa Gutierrez:
  
