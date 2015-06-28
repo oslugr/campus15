@@ -14,6 +14,8 @@ Preguntas generales hacia la clase (rato de charla con ellos):
 - ¿Sabéis lo que significa "internet"?
 - ¿Creéis que podemos hacer cosas buenas con los ordenadores? ¿Y cosas malas?
 
+Presentación del campus: el pingüino de Linux (tema del campus, vaya) el gato de Scratch (programar), el zorro de Firefox (navegar), el lobo de Gimp (dibujar/diseñar) y documentos (escribir). 
+
 Actividad propuesta: juego "el ahorcado" con toda la clase. 
 - Tema: palabras de informática. 
 - Función: conocer el nivel aproximado de la clase a través de los términos que conocen. 
@@ -27,6 +29,11 @@ Actividad propuesta: proyecto "Mi ficha personal para el Campus"
 - Qué hay que llevar: pen, cámara de fotos y cable de la cámara. 
 
 Fin de la sesión. 
+
+##Sesión 2: Scratch
+
+
+
 
 
 
