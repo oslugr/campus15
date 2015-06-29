@@ -32,6 +32,34 @@ Fin de la sesión.
 
 ##Sesión 2: Scratch
 
+Presentación:
+- ¿Qué habíamos visto ayer? (hacia la clase) 
+- Aclarar qué vamos a ver durante el campus a través de los animales: "ayer fue la presentación del campus así que aprendimos a hacer presentaciones con el programa "Impress"; a partir de aquí..." - enseñar el pingüino de Linux (tema del campus, vaya) el gato de Scratch (programar), el zorro de Firefox (navegar), el lobo de Gimp (dibujar/diseñar) y documentos (escribir). También el gato - pulpo de Git, que es curioso. 
+- Hoy vamos a ver "Scratch": el gato. Para qué sirve, qué es, etc. 
+
+¿Sabéis qué significa "programar"?
+¿Sabéis cómo funciona un ordenador?
+
+Actividad: el juego de programación. 
+- [(Prueba): toque en el hombro, decir nombre]
+- Cómo se hace: nº id. + orden = acción. 
+- IMPORTANTE: explicar la relación con cómo funciona un ordenador, sin duende dentro ni magia ni nada. Puede ser interesante ponerles el fondo de Matrix de ayer para explicarles esto, decirles lo del lenguaje bin brevemente. 
+
+Proyecto: usando Scratch. 
+- Antes de nada: comprobar que el archivo de ayer sigue ahí. En caso de que no, cuando Sera acabe de explicar irse con quien sea y hacerlo en un momento. 
+- Explicación de Sera. Es importante que esta vez, cuando se esté explicando estén atentos. Dar un toque de atención antes de empezar.  
+- Práctica. 
+
+Presentación del proyecto del día anterior: llevar pendrive. 
+
+Si sobra tiempo: 
+Actividad propuesta: juego "el ahorcado" con toda la clase. 
+- Tema: palabras de informática. 
+
+Si el caos se apoderado de la clase, sacar la daga de acero valyrio: que cada uno haga lo que desee...
+
+
+
 
 
 
