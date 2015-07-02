@@ -61,8 +61,12 @@ Si el caos se apoderado de la clase, sacar la daga de acero valyrio: que cada un
 
 ##Sesión 3: Seguridad informática con la Policía y Navegación por internet
 
-##Sesión 4: y Scratch
+##Sesión 4: GIMP y Scratch
+Recordatorio de lo que se vió ayer con la policía
 
+Empezamos con GIMP para enseñarles a dibujar
+
+Terminamos con Scratch para que los objetos se pongan a pintar y si pueden que hagan un ping pong.
 
 
 
