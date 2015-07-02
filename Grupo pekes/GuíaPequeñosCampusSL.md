@@ -59,7 +59,9 @@ Actividad propuesta: juego "el ahorcado" con toda la clase.
 Si el caos se apoderado de la clase, sacar la daga de acero valyrio: que cada uno haga lo que desee...
 
 
+##Sesión 3: Seguridad informática con la Policía y Navegación por internet
 
+##Sesión 4: y Scratch
 
 
 
